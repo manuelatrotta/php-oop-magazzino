@@ -1,3 +1,3 @@
 <?php
-require_once 'negozio.php';
+require_once 'negozio/ecocosmesi.php';
 ?>
